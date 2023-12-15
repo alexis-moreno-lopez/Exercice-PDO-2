@@ -31,6 +31,6 @@ if (
    ]);
    
    
-   header("Location: .liste-patient.php");
+   header("Location: ../visuel/liste-patients.php");
 
 ?>
